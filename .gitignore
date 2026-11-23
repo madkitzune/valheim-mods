@@ -1,0 +1,6 @@
+bin/
+obj/
+*.dll
+*.zip
+*.log
+__pycache__/
